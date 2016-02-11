@@ -1,18 +1,22 @@
-P{
-    color:green;
-    font-size:24px;
-    font-family: Garamond;
+P {
+  color:green;
+  font-size:24px;
+  font-family: Garamond;
 }
+
 a{
 
 }
+
 h1 {
 	font-family: Verdana;
 	color: blue;
 }
+
 Body{
-background-color: 7C8C91;
+background-image: url("images/kabir_background.jpg");
 }
+
 img{
   margin: center;
 }
@@ -28,6 +32,7 @@ img{
     background-color: #8AD9FF;
         border-radius: 8px;
 }
+
 #menu ul {
     height: auto;
     padding: 8px 0px;
@@ -36,30 +41,32 @@ img{
 
 
 div.para {
-         background-color:black;
-         color:white;
-         margin:20px;
-         padding:20px;
-     }
-     div.MyPhoto {
-
-       position: fixed;
-       bottom: 100px;
-       right: 100p;
-       width: 100px;
-       border: 3px solid #73AD21;
+  background-color:black;
+  color:white;
+  margin:20px;
+  padding:20px;
 }
 
-body{
+div.MyPhoto {
+  position: fixed;
+  bottom: 100px;
+  right: 100p;
+  width: 100px;
+  border: 3px solid #73AD21;
+}
+
+body {
     background-color:#C6E2FF
 }
-p1{
-  font-family: fantasy;
 
+p1 {
+  font-family: fantasy;
 }
-p2{
+
+p2 {
   font-family: fantasy;;
 }
-p3{
+
+p3 {
   font-family: fantasy;
 }
